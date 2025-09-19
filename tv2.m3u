@@ -90,8 +90,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-name="ŞABAN TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI
-https://cdn900.canlitv.me/sabantv.m3u8?tkn=w5ygoplUGIb7ehoFEV8ewg&tms=1758280851&hst=www.canlitv.me&ip=31.170.238.55
-
+https://cdn900.canlitv.me/sabantv.m3u8?tkn=-QyJDBkjWazgQUt8NUWt3A&tms=1758295919&hst=www.canlitv.me&ip=31.170.238.55
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
@@ -276,4 +275,5 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2120/index.m3u8
 #EXTINF:-1 tvg-name="ATV Vivace AZ SD" tvg-id="" tvg-logo="https://acra.gov.az/storage/950/ATV-vivace---Copy.jpg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ATV Vivace AZ SD
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/16068/index.m3u8
+
 
