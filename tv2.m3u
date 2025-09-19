@@ -190,3 +190,90 @@ https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
 #EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-id="" tvg-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="MUZIK",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:-1 tvg-name="İDMAN TV 1080p" tvg-id="" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",İDMAN TV 1080p
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/16044/index.m3u8
+#EXTINF:-1 tvg-name="İDMAN TV SD" tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",İDMAN TV SD
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2198/index.m3u8
+#EXTINF:-1 tvg-name="CBC SPORT 1080p" tvg-id="CBCSport.az" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",CBC SPORT 1080p
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2193/index&extension=m3u8
+#EXTINF:-1 tvg-name="AZ TV 1080p" tvg-id="AZ TV 1080p.tr" tvg-logo="https://admin.aztv.az/userfiles/files/a.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",AZ TV 1080p
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/966/index.m3u8
+#EXTINF:-1 tvg-name="AZ TV 720p" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/a.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",AZ TV 720p
+https://str2.yodacdn.net/aztv_300_to_small/tracks-v1a1/mono.m3u8?token=7e11ea965a8230e46c34ec17e7581349132e40e3-b3fba89fb904513b07a3cbf747c47e37-1749286842000000-1749276042000
+#EXTINF:-1 tvg-name="BAKU TV 1080P" tvg-id="" tvg-logo="https://baku.tv/assets/frontend/img/logo.svg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",BAKU TV 1080P
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-name="Medeniyyet TV SD" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/I9FxttYK0IfxdEHYQv8v.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Medeniyyet TV SD
+https:\\goldvod.org\tv\az.php?id=medeniyet
+#EXTINF:-1 tvg-name="ATV AZAD TV 1080p" tvg-id="" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/atvazadtv-hdtvler-0lk8.webp" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ATV AZAD TV 1080p
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1 tvg-name="ARB TV 1080p" tvg-id="" tvg-logo="https://arbtv.az/assets/uploads/sites/logo.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ARB TV 1080p
+https://goldvod.org/tv/az.php?id=arbhd
+#EXTINF:-1 tvg-name="ARB 24 TV 1080p" tvg-id="" tvg-logo="https://arb24.az/frontend/assets/img/global/header/logo.svg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ARB 24 TV 1080p
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2188/index.m3u8
+#EXTINF:-1 tvg-name="ARB 24 TV SD" tvg-id="" tvg-logo="https://arb24.az/frontend/assets/img/global/header/logo.svg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ARB 24 TV SD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-name="ARB GÜNEŞ 1080p" tvg-id="" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ARB GÜNEŞ 1080p
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2189/index.m3u8
+#EXTINF:-1 tvg-name="ARB GÜNEŞ SD" tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ARB GÜNEŞ SD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-name="AZSTARTV 1080p" tvg-id="" tvg-logo="https://azstartv.com/images/logo.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",AZSTARTV 1080p
+https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1917817031_b2096000.m3u8
+#EXTINF:-1 tvg-name="İctimai TV 1080p" tvg-id="" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",İctimai TV 1080p
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2195/index.m3u8
+#EXTINF:-1 tvg-name="İctimai TV 720p" tvg-id="" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",İctimai TV 720p
+https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
+#EXTINF:-1 tvg-name="Space TV 1080p" tvg-id="" tvg-logo="https://acra.gov.az/storage/1182/Space-Logo--(1).jpg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Space TV 1080p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-name="DÜNYA TV 720p" tvg-id="DunyaTV.az" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",DÜNYA TV 720p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-name="TMB TV 1080p" tvg-id="" tvg-logo="https://tmb.tv/wp-content/uploads/2025/01/tmbtaz-png.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",TMB TV 1080p
+https:\\goldvod.org\tv\az.php?id=tmbtv
+#EXTINF:-1 tvg-name="REAL TV 720p" tvg-id="" tvg-logo="https://i.imgur.com/e2KFL0R.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",REAL TV 720p
+https:\\goldvod.org\tv\az.php?id=real
+#EXTINF:-1 tvg-name="XEZER TV SD" tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",XEZER TV SD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-name="Səhiyyə TV 1080p" tvg-id="" tvg-logo="https://sehiyyetv.az/wp-content/uploads/2022/11/sh2-1024x516.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Səhiyyə TV 1080p
+https://goldvod.org/tv/az.php?id=shtv
+#EXTINF:-1 tvg-name="Kəpəz TV 720p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Kapaz_TV_Logo_2019.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Kəpəz TV 720p
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:-1 tvg-name="GUNAZ TV 1080p" tvg-id="" tvg-logo="https://gunaz.tv/frontend/images/logo.png.pagespeed.ce.erdRINlH0c.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",GUNAZ TV 1080p
+https://2meet.az/live/livestream.flv
+#EXTINF:-1 tvg-name="Live TV 720p" tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Live TV 720p
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 tvg-name="QAFQAZ TV 720p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Qafqaz_TV_%282017-h.h.%29.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",QAFQAZ TV 720p
+https://proxy.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=196927cf184c2da76f8d57eeb01cd462b431486b-7f63821727ab4fba4c44de9efcc3c62d-1749327541000000-1749316741000
+#EXTINF:-1 tvg-name="MUSIC AZERBAYCAN 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/lyihj05.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",MUSIC AZERBAYCAN 720p
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-name="KANAL 12 720p" tvg-id="KANAL 12 720p.tr" tvg-logo="https://i.hizliresim.com/jaxnqbh.jpg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",KANAL 12 720p
+http:\\185.234.111.229:8000\play\a054
+#EXTINF:-1 tvg-name="EL TV SD" tvg-id="" tvg-logo="https://www.eltv.az/uploads/settings/eltv-logo67fb856149143.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",EL TV SD
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Muz TV" tvg-id="" tvg-logo="https://i.imgur.com/lSBMeBU.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Muz TV
+https://str.yodacdn.net/mtvaz/index.m3u8?token=0cef3f39124d332d7ec32671eb9b98aa6d0accf4-7de4ef159963118bf77e2b06daba8123-1751585068-1751574268
+#EXTINF:-1 tvg-name="Naxçıvan TV 720p" tvg-id="" tvg-logo="https://ntv.az/assets/images/logo.png?v=2" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Naxçıvan TV 720p
+https://str.yodacdn.net/ntv/index.m3u8
+#EXTINF:-1 tvg-name="APA TV 720p" tvg-id="" tvg-logo="https://acra.gov.az/storage/947/apatv-loqo-%E2%80%94-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",APA TV 720p
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-name="CBC AZ TV 720p" tvg-id="CBC.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CBC.jpg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",CBC AZ TV 720p
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 tvg-name="AYAZ TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/6x6b309.jpg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",AYAZ TV 720p
+https:\\janya-ayaztv.vgcdn.net\ptnr-ayaztv\title-Ayaz_TV\v1\vglive-sk-934820\AyazTV_2500k.m3u8
+#EXTINF:-1 tvg-name="Show Plus TV 1080p" tvg-id="ShowPlusTV.az" tvg-logo="https://i.imgur.com/Je2DGSG.jpg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Show Plus TV 1080p
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-name="Alvin Channel TV 720p" tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Alvin Channel TV 720p
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="KANAL S 1080p" tvg-id="" tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",KANAL S 1080p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 tvg-name="FLUX TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/ivfps2y.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",FLUX TV 720p
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
+#EXTINF:-1 tvg-name="Hadi TV3 720p [Azerbaycan]" tvg-id="" tvg-logo="https://az.haditv.co.uk/pics/logo.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",Hadi TV3 720p [Azerbaycan]
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 tvg-name="MCJ TV SD" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nwGhSq2ccIniLb9kpkYPOc4Ei28s5VoN4G2QLnJP0CLA=s900-c-k-c0x00ffffff-no-rj" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",MCJ TV SD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
+#EXTINF:-1 tvg-name="VIP TV 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/m9ig7w5.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",VIP TV 1080p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+#EXTINF:-1 tvg-name="ATV Cinema AZ SD" tvg-id="" tvg-logo="https://i.hizliresim.com/5yjajfa.png" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ATV Cinema AZ SD
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2120/index.m3u8
+#EXTINF:-1 tvg-name="ATV Vivace AZ SD" tvg-id="" tvg-logo="https://acra.gov.az/storage/950/ATV-vivace---Copy.jpg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ATV Vivace AZ SD
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/16068/index.m3u8
+
