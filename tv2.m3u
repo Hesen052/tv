@@ -97,6 +97,8 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.seir-sanduk.com/images/tvlogo/travel-tv.png" group-title="TV",TRAVEL TV
+#EXTVLCOPT:http-user-agent=hpgdisco
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
@@ -275,6 +277,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2120/index.m3u8
 #EXTINF:-1 tvg-name="ATV Vivace AZ SD" tvg-id="" tvg-logo="https://acra.gov.az/storage/950/ATV-vivace---Copy.jpg" group-title="🇦🇿AZERBAYCAN KANALLARI🇦🇿",ATV Vivace AZ SD
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/16068/index.m3u8
+
 
 
 
